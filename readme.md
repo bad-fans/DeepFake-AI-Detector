@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# DeepFake AI Detector
+>>>>>>> e2870bf6f96b021c99c90e4d875ae1aa7e64e817
 # ReadMe
 
 My goal for this project is to leverage my machine learning experience and create a DeepFake Detection AI system. I was thinking a lot about the field of Digital Forensics and what would be some of the biggest challenges in the upcoming years. I kept coming back to the conclusion that AI development is moving very rapidly and that development is going to swiftly encroach itself in Digital Forensics. For example, Midjourney, an AI Generative Art company has seemingly pushed the bounds of reality by creating photorealistic fake photos. There are almost at the point where you can’t tell if the images were taken in real life or were created by these AI systems.
@@ -59,4 +63,8 @@ Link to recording of my presentation: https://youtu.be/eBz0ecB39Zk
     - But the pace for AI generation > detection
 - Detection for this reason will not be a long-term solution in
 regards to Digital Forensics
+<<<<<<< HEAD
 - Long Term Solution is for AI Image Generation Companies (Midjourney) to create watermarks ingrained
+=======
+- Long Term Solution is for AI Image Generation Companies (Midjourney) to create watermarks ingrained
+>>>>>>> e2870bf6f96b021c99c90e4d875ae1aa7e64e817
